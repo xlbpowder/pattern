@@ -53,4 +53,5 @@
 ## 代理模式proxy
 
 * JAVA动态代理示意图：
+
     ![proxy-photo](./src/image/proxy.jpg)
