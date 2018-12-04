@@ -52,6 +52,14 @@
 ---
 ## 代理模式proxy
 
+* 静态代理
+
+* 动态代理
+
 * JAVA动态代理示意图：
 
-    ![proxy-photo](./src/image/proxy.png)
+    ![proxy-photo](src/image/proxy01.png)
+    
+* 代理方法流程：
+    
+    ![proxy-photo](src/image/proxy02.png)
